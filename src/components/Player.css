@@ -13,6 +13,7 @@ li.player p {
 
 li.player p.name {
     font-weight: bold;
+    text-align: left;
 }
 
 li.player p.score {

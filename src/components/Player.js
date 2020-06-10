@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import PropTypes from "prop-types";
 
-// import './Player.css';
+import './Player.css';
 
 export default class Player extends Component {
     static propTypes = {

@@ -9,7 +9,7 @@ function App() {
     return (
         <div className="App">
             <main>
-                <Title content={"ScoreboardApp"}/>
+                {/*<Title content={"ScoreboardApp"}/>*/}
                 <Scoreboard/>
             </main>
         </div>
